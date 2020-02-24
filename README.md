@@ -1,6 +1,7 @@
 # bp205b-project
 
 Assigns cell barcode to corresponding multiseq barcode
+Applies Monocle Trajectory Analysis to cell barcoded expression data
 
 ## Jupyter notebooks
 
@@ -9,6 +10,10 @@ Assigns cell barcode to corresponding multiseq barcode
   * data-analysis-aa.ipynb
   * data-analysis-mk.ipynb
   * data-analysis-gbc.ipynb
+
+## R Script
+
+* TJ_Analysis_Clean.R - contains functions required for Monocle workflow. Applies clustering, trajectory analysis, DEx Gene branch analysis.
 
 ## Subfolders
 
